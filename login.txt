@@ -1,0 +1,3 @@
+admin = user (febri) pass (rava1234)
+operator = user(fatma) pass (fatma1234)
+peminjam = user(irma) pass (irma1234)
